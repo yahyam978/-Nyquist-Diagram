@@ -56,8 +56,6 @@ try:
     
     st.pyplot(fig)
 
-except Exception as e:
-
 
 # ... (previous input code here) ...
 
